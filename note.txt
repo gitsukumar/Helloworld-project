@@ -1,0 +1,12 @@
+git commands
+
+git init
+
+git add files
+
+git status
+
+git commit -m "write some message:"
+
+git push -u origin master
+
